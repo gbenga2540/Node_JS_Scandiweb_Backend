@@ -1,0 +1,17 @@
+{
+  "name": "junior-test-endpoint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.23.0",
+    "dotenv": "^16.0.1",
+    "graphql": "^15.5.0"
+  }
+}
